@@ -1,0 +1,9 @@
+Flask>=0.10.1
+cookiecutter>=1.1.0
+Flask-CLI
+git+https://github.com/inveniosoftware/invenio-db.git#egg=invenio-db
+git+https://github.com/inveniosoftware/invenio-theme.git#egg=invenio-theme
+git+https://github.com/inveniosoftware/invenio-assets.git#egg=invenio-assets
+git+https://github.com/inveniosoftware/invenio-celery.git#egg=invenio-celery
+git+https://github.com/inveniosoftware/invenio-i18n.git#egg=invenio-i18n
+git+https://github.com/jirikuncar/invenio-records.git@next#egg=invenio-records
